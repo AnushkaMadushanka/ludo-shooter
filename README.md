@@ -7,7 +7,12 @@
 ![Unity](https://img.shields.io/badge/Unity-2021.1-black)
 ![C#](https://img.shields.io/badge/C%23-URP-239120)
 
-<img src="https://raw.githubusercontent.com/AnushkaMadushanka/anushkamadushanka.github.com/gh-pages/projects/ludo_shooter.webp" alt="Ludo Shooter" width="600">
+[<img src="docs/gameplay.webp" alt="Ludo Shooter gameplay — a shot tracing across the board-tile arena on wave 3, green pawns closing in">](https://anushka-madushanka.itch.io/ludo-shooter)
+
+<p>
+<img src="docs/menu.webp" width="49%" alt="Ludo Shooter main menu">
+<img src="docs/dice-pickup.webp" width="49%" alt="The dice carried alongside the weapon, snowflake face showing, on wave 1">
+</p>
 
 Solo project — concept, systems, code and release.
 
